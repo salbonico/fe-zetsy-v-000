@@ -45,6 +45,11 @@ p {
 	padding: 1px;
 }
 
+press:hover{
+	border: 5px rgb{111,127,122}
+}
+
+
 #footer{
 	font-size: .75em;
 	text-align: right;
