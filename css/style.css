@@ -24,7 +24,7 @@ body {
 	color: rgb(152, 173, 166);
 	font-size: 5em;
 	font-family: 'Libre Baskerville', serif;
-
+  margin-top: 10px;
 }
 
 #featured-img {
