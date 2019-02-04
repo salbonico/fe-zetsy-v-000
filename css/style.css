@@ -18,15 +18,20 @@ body {
 }
 
 /* Write all remaining styles here */
-#header {
-	color: rgb(152, 173, 166);
-	font-size: 5em;
-	font-family: 'Libre Baskerville', serif;
-	padding-bottom: 10px;
-	margin: 0 0 5px;
 
+
+h2 {
+	color: rgb(111, 127, 122);
+	font-size: 2em;
+}
+p {
+	color: #555;
+	font-size: 1em;
+	margin:0 0 20px 0;
 }
 
-#featured-img {
-	border: 5px rgb(152, 173, 166) solid;
+
+img {
+	border: 5px #ccc solid;
+	padding: 1px;
 }
