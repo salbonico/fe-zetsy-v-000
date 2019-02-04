@@ -23,3 +23,7 @@ body {
 	font-size: 5em;
 	font-family: 'Libre Baskerville', serif;
 }
+
+#featured-img {
+	border: 5px rgb(152, 173, 166) solid;
+}
